@@ -1,2 +1,2 @@
-# ZinNew
-Just a playground to try new things
+v1.11
+ ON 23 NOV 2017
