@@ -1,1 +1,2 @@
-# ZinNew-1.11
+# ZinNew
+Just a playground to try new things
