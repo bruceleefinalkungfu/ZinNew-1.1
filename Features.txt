@@ -1,0 +1,58 @@
+Version
+	1.1
+All
+	- See if you are to throw ZinRuntimeException or do ZIO.log
+	- Use Builder where it's due
+
+automate
+	ZinSelenium
+		Features
+	
+reflect
+	ZinDynamicClassLoader
+		Features
+			- It only searches in SOME_CLASSPATH_DIR + "zinData\dynamicLoading\ZinDynamicCaller.java"
+	ZinReflect
+		Solve bugs
+
+monitor
+	ZZZDCC
+		Features
+			- It doesn't get code from internet
+			- It doesn't show output on the internet
+	ZinWindow
+		Features
+			
+
+file
+	ZinSerializer
+		Features
+			- It can't serialize any class that doesn't implement Serializable
+	ZinFile
+		Features
+
+multithreading
+	ZinMultithread
+		Features
+			- Do something in it
+			
+preprocessor
+	Create one ZinCLIExecutor
+	Create one ZinPreprocessor on top of ZinCLIExecutor and ZinDirectoryMonitor
+	
+
+string
+	ZinString
+		Features
+			- Give more functionality
+	ZinRegex
+		Features
+
+tools
+	ZinCrypto
+		Features
+			- Give more functionality
+	ZinTimer
+		Features
+			- Make all fields, methods non static, use Builder
+		
