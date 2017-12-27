@@ -3,6 +3,7 @@ Version
 All
 	- See if you are to throw ZinRuntimeException or do ZIO.log
 	- Use Builder where it's due
+	- Create your own variables of ZinConstant in every class, less dependency, change anytime
 
 automate
 	ZinSelenium
@@ -34,7 +35,7 @@ file
 multithreading
 	ZinMultithread
 		Features
-			- Do something in it
+			- Start
 			
 preprocessor
 	Create one ZinCLIExecutor
